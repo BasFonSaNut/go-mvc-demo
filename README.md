@@ -85,10 +85,14 @@ Phase#6 ว่า go WASM(web assembly)
 
 
 การพัฒนา ด้วยโมเดล MVC เพื่อหนีปัญหาการลด performance อันไม่เป็นธรรม ของ Programmer ให้น้อยที่สุด
+
 นั่นคือเขียนเพื่อสนับสนุนการ Deployment Phase 
+
 รับโจทย์มา 5 ข้อ พลาด ข้อเดียว rollback ทั้งหมด โปรเจค (webpack style)
 กับ
+
 รับโจทย์มา 5 ข้อ พลาด ข้อเดียว อีก 4 เส้นยังรันได้สบาย 
+
 performance ฝั่งไหนดีกว่ากัน ?
 
 MVC Project Structure พร้อมสำหรับการเปลี่ยน Path สู Microservice Architech ได้ทันที
