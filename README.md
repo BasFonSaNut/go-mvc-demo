@@ -74,6 +74,7 @@ Phase#4 ว่าด้วย การ apply Phase#3(MVC) สู่ Microservic
 Phase#5 ว่า Elastic search ใน Golang 
 
 Phase#6 ว่า go WASM(web assembly)
+
         - ทำไมต้อง WASM 
         - เปิดประเด็น งานที่เหมาะกับ WASM 
         - ปูพื้น TinyGo โลกของ iOT 
