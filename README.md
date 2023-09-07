@@ -28,6 +28,7 @@ Phage#1 ปูพื้นเล่นกับแพคเกจต่างๆ
           ดังนั้น package นี้ จะปูพื้นเพื่อสิ่งนี้ไว้ให้
 
 Phase#2 ว่าด้วย database + struct + gin + fiber
+
     2.1 NO ORM concept mysqlnative +struct general go lang datatype
         Middleware http-net
 
